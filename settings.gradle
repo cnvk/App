@@ -1,0 +1,1 @@
+include ':day01', ':day02', ':day03', ':day04', ':day04aidlservice', ':processservice', ':service', ':myapplicationtest', ':day0627', ':mutilmedia', ':mybaidumap', ':day0629', ':day0630', ':customview'

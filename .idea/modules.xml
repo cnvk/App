@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/App.iml" filepath="$PROJECT_DIR$/App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04aidlservice/aidlservice.iml" filepath="$PROJECT_DIR$/day04aidlservice/aidlservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customview/customview.iml" filepath="$PROJECT_DIR$/customview/customview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day01/day01.iml" filepath="$PROJECT_DIR$/day01/day01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02/day02.iml" filepath="$PROJECT_DIR$/day02/day02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day03/day03.iml" filepath="$PROJECT_DIR$/day03/day03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04/day04.iml" filepath="$PROJECT_DIR$/day04/day04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04aidlservice/day04aidlservice.iml" filepath="$PROJECT_DIR$/day04aidlservice/day04aidlservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day0627/day0627.iml" filepath="$PROJECT_DIR$/day0627/day0627.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day0629/day0629.iml" filepath="$PROJECT_DIR$/day0629/day0629.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day0630/day0630.iml" filepath="$PROJECT_DIR$/day0630/day0630.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mutilmedia/mutilmedia.iml" filepath="$PROJECT_DIR$/mutilmedia/mutilmedia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplicationtest/myapplicationtest.iml" filepath="$PROJECT_DIR$/myapplicationtest/myapplicationtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybaidumap/mybaidumap.iml" filepath="$PROJECT_DIR$/mybaidumap/mybaidumap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/processservice/processservice.iml" filepath="$PROJECT_DIR$/processservice/processservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service.iml" filepath="$PROJECT_DIR$/service/service.iml" />
+    </modules>
+  </component>
+</project>
